@@ -109,6 +109,8 @@ y = df[2].values
 
 coefs = poly.polyfit(x, y, 4)
 ffit = poly.polyval(df[1], coefs)
+plt.gca().invert_yaxis()
+#plt.gca().invert_xaxis()
 plt.plot(df[1], ffit)
 plt.show()
 #plt.plot(fitted)
