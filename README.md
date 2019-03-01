@@ -6,4 +6,4 @@ Using the Right Ascension and Declination we can accurately plot these movements
 ## Image of Mars Retrograde:
 ![marsRetro](https://github.com/basuamlk/AstroPlot/blob/master/Ma2011-2Tezel.jpg)
 ## Graph plotted from data:
-![astro](https://github.com/basuamlk/AstroPlot/blob/master/Figure_2.png)
+![astro](https://github.com/basuamlk/AstroPlot/blob/master/Figure_1.png)
